@@ -1,0 +1,14 @@
+fastapi[all]
+openai
+python-dotenv
+pydantic==1.*
+langchain
+faiss-cpu
+tiktoken
+streamlit
+transformers
+ctransformers
+chromadb 
+pypdf
+sentence_transformers
+InstructorEmbedding
